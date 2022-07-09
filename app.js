@@ -8,13 +8,13 @@ let img = document.querySelector(".image")
 let reviews =[ {id:1,
     PersonName: "Tanya Sinclar",
     job: "UX ENGINEER",
-    img: "/images/image-tanya.jpg",
+    img: "images/image-tanya.jpg",
     message: `"I have been intrested in coding for a while but never taken the jump,until now. couldn't recommend this course enough. I am now in the job of my dreams  so excited about the future "`
     },
     { id:2,
         PersonName: "John Tarkpor",
         job: "FONT-END DEVELOPER",
-        img: "/images/image-john.jpg",
+        img: "images/image-john.jpg",
         message: `" If you want to lay the best foundation possible I would recommend taking this course. The depth the instructors go into is incredible. I now feel so confident about  starting up as a professional developer. ” `
         }
     ]

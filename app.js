@@ -48,3 +48,5 @@ prevBtn.addEventListener ("click", function () {
     showPerson()
     
 })
+window.addEventListener ("DOMContentLoaded", function (){
+    showPerson()})

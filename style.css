@@ -42,7 +42,6 @@ body{
     .next-btn{border: none;
         background: white;
         height: 34px;
-        padding-left: 20px;
     border-radius: 20px 20px 20px 20px;
     }
     .btns{ position: relative;
